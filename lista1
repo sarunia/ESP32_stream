@@ -17,7 +17,7 @@
 17.Radio Pasja POP    http://91.232.4.33:8084/stream2
 18.Radio Pasja Klubow http://91.232.4.33:9460/stream2
 19.Radio Pasja Chill  http://91.232.4.33:8108/stream2
-20.Radio Pasja Relask http://91.232.4.33:8102/stream2
+20.Radio Pasja Relaks http://91.232.4.33:8102/stream2
 21.Radio Pasja Klubow http://91.232.4.33:9460/stream2
 22.Radio Pasja Dance  http://91.232.4.33:9466/stream2
 23.Radio Krakow       http://stream4.nadaje.com:9680/radiokrakow-s3.m3u
@@ -28,76 +28,76 @@
 28.Radio Freee        http://www.emsoft.ct8.pl/inne/freee.m3u
 29.Radio Opole        http://dab.radio.opole.pl:8070/1.m3u
 30.Radio Olsztyn      http://213.73.25.178:7055/listen.pls
-029|Radio PiK           |http://stream.radiopik.pl:9004/;.m3u
-030|Radio Szczecin      |http://stream4.nadaje.com:11986/prs.m3u
-031|Radio Wroclaw       |http://stream4.nadaje.com:9240/prw.m3u
-032|Radio RAM           |http://stream4.nadaje.com:9220/ram.m3u
-033|Muzyczne Radio      |http://stream3.nadaje.com:9000/;stream.m3u
-034|Trendy Radio        |http://stream.trendyradio.pl:8000/h.m3u
-035|Twoja Polska Stacja |http://sluchaj.twojapolskastacja.pl:8068/listen.pls
-036|Radio Muzo FM       |http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
-037|Radio Rzeszow       |http://streaming.g-news.pl:8040/rzeszow
-038|Radio Alex          |http://proxima.shoutca.st:9045/stream
-040|Rockserwis.fm       |http://stream9.nadaje.com:8002/live
-041|Toksyna FM          |http://s01.toksyna.fm:8000/stream
-042|MeloRadio Krakow    |http://ml.cdn.eurozet.pl/mel-krk.mp3
-043|Twoje Radio AM      |http://s1.slotex.pl:7424/;
-044|Radio Bialystok     |http://stream4.nadaje.com:15476/radiobialystok
-046|Radio Pogoda        |http://stream10.radioagora.pl:80/tuba143-1.mp3
-047|Radio Weekend       |http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
-048|Radio Jura          |http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
-049|Radio FIAT          |http://stream2.nadaje.com:8056/;
-050|Bayer FM            |https://streaming.radio5.com.pl:8888/bayerfm
-051|Radio Gdansk        |http://stream.task.gda.pl:8000/rg1
-052|Radio Kaszebe       |http://stream2.nadaje.com:8060/;
-053|Radio C C M         |http://primary.moodyradiostream.org/radioccm
-054|Radio Fest          |http://primary.moodyradiostream.org/radiofest
-055|Radio Imperium      |https://stream.radioimperium.pl:8443/stream
-056|Elka Glogow         |http://live.elka.pl:8000/miedziowe.pl
-057|Inne Radio          |http://stream4.nadaje.com:8386/test
-058|Radio Gniezno       |http://stream3.nadaje.com:8012/;
-059|Radio Bogoria       |http://s6.radiohost.pl:8888
-060|Centrum Kalisz      |http://shot2.inten.pl:8888/rcfm.mp3
-061|eM Katowice         |http://194.181.177.253:8000/
-062|Radio Katowice      |http://stream4.nadaje.com:9212/radiokatowice
-063|Radio Park FM       |http://sluchaj.radiopark.com.pl:8048/
-064|Radio Sud           |http://stream2.nadaje.com:8012/;
-065|Radio Fama          |http://stream2.nadaje.com:8076/;
-068|Radio Kolobrzeg     |http://194.24.244.11:8000/;
-069|Konin FM            |http://stream2.technologicznie.net:80/konin.fm
-070|Radio Koszalin      |http://91.232.4.33:9680/stream
-071|Off Radio Krakow    |http://stream4.nadaje.com:13332/offradiokrakow
-072|Radio Q             |http://37.130.30.166:8020/;
-074|Radio Lodz          |http://217.113.224.171/RadioLodz-1.mp3
-075|Radio Lodz Extra    |http://217.113.224.171:80/RadioLodz-2-HQ.aac
-076|Radio Parada        |http://stream4.nadaje.com:15274/live
-077|Radio Malbork       |http://stream3.nadaje.com:9022/
-078|Radio 7             |http://stream.radio7.pl:8000
-079|Radio Naklo         |http://145.239.92.77:80/;
-081|Olsztyn UWM FM      |http://213.184.18.156:8000/
-082|Doxa Fm             |http://shot.inten.pl:10000/
-083|Rekord Radio        |http://stream4.nadaje.com:8308/ostrowiec
-084|POP Radio           |http://stream1.popradio.pl:9000/
-085|Radio Fara          |http://62.133.128.22:8000/relay
-087|Nasze Radio         |https://online.nasze.fm:8443/stream
-088|Radio Sudety 2 4    |http://stream4.nadaje.com:15006/sudety24
-089|J C S  R A D I O    |http://jeansoft.zapto.org:8000
-090|Radio Energy 2000   |http://energy2000.radioparty.pl:8005/
-091|SLAY RADIO          |http://relay1.slayradio.org:8300/
-092|Radio ChilliZet     |http://www.emsoft.ct8.pl/inne/chilli.m3u
-093|Radio RAM Wroclaw   |http://stream4.nadaje.com:9220/ram.m3u
-094|Phever Media Live   |http://uk1.internet-radio.com:8200/live
-095|Move Da House       |http://uk7.internet-radio.com:8000/
-096|Radio LEM FM        |http://n13.radiojar.com/2fa0gbhr9bhvv
-097|Radio MRS           |http://145.239.26.146:7494/;
-098|Mediehuset 3 FM     |http://uk1.internet-radio.com:8150/live
-099|Energy 106 Belfast  |http://192.111.140.6:9633/stream
-107|The Zone - Dublin   |http://uk1.internet-radio.com:8355/
-108|Radio Pirata TGR    |http://us1.internet-radio.com:8140/live
-109|Classic Rock Planet |http://us5.internet-radio.com:8279/
-110|The Big 80s Station |http://178.32.62.167:8545/stream
-111|Soundtracks Radio   |http://uk5.internet-radio.com:8256/
-112|The Hit Man Radio   |http://uk2.internet-radio.com:8121/
+31.Radio PiK          http://stream.radiopik.pl:9004/;.m3u
+32.Radio Szczecin     http://stream4.nadaje.com:11986/prs.m3u
+33.Radio Wroclaw      http://stream4.nadaje.com:9240/prw.m3u
+34.Radio RAM          http://stream4.nadaje.com:9220/ram.m3u
+35.Muzyczne Radio     http://stream3.nadaje.com:9000/;stream.m3u
+36.rendy Radio        http://stream.trendyradio.pl:8000/h.m3u
+37.Twoja Polska Stacj http://sluchaj.twojapolskastacja.pl:8068/listen.pls
+38.Radio Muzo FM      http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
+39.Radio Rzeszow      http://streaming.g-news.pl:8040/rzeszow
+40.Radio Alex         http://proxima.shoutca.st:9045/stream
+41.Rockserwis.fm      http://stream9.nadaje.com:8002/live
+42.Toksyna FM         http://s01.toksyna.fm:8000/stream
+43.MeloRadio Krakow   http://ml.cdn.eurozet.pl/mel-krk.mp3
+44.Twoje Radio AM     http://s1.slotex.pl:7424/;
+45.Radio Bialystok    http://stream4.nadaje.com:15476/radiobialystok
+46.Radio Pogoda       http://stream10.radioagora.pl:80/tuba143-1.mp3
+47.Radio Weekend      http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
+48.Radio Jura         http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
+49.Radio FIAT         http://stream2.nadaje.com:8056/;
+50.Bayer FM           https://streaming.radio5.com.pl:8888/bayerfm
+51.Radio Gdansk       http://stream.task.gda.pl:8000/rg1
+52.Radio Kaszebe      http://stream2.nadaje.com:8060/;
+53.Radio C C M        http://primary.moodyradiostream.org/radioccm
+54.Radio Fest         http://primary.moodyradiostream.org/radiofest
+55.Radio Imperium     https://stream.radioimperium.pl:8443/stream
+56.Elka Glogow        http://live.elka.pl:8000/miedziowe.pl
+57.Inne Radio         http://stream4.nadaje.com:8386/test
+58.Radio Gniezno      http://stream3.nadaje.com:8012/;
+59.Radio Bogoria      http://s6.radiohost.pl:8888
+60.Centrum Kalisz     http://shot2.inten.pl:8888/rcfm.mp3
+61.eM Katowice        http://194.181.177.253:8000/
+62.Radio Katowice     http://stream4.nadaje.com:9212/radiokatowice
+63.Radio Park FM      http://sluchaj.radiopark.com.pl:8048/
+64.Radio Sud          http://stream2.nadaje.com:8012/;
+65.Radio Fama         http://stream2.nadaje.com:8076/;
+66.Radio Kolobrzeg    http://194.24.244.11:8000/;
+67.Konin FM           http://stream2.technologicznie.net:80/konin.fm
+68.Radio Koszalin     http://91.232.4.33:9680/stream
+69.Off Radio Krakow   http://stream4.nadaje.com:13332/offradiokrakow
+70.Radio Q            http://37.130.30.166:8020/;
+71.Radio Lodz         http://217.113.224.171/RadioLodz-1.mp3
+72.Radio Lodz Extra   http://217.113.224.171:80/RadioLodz-2-HQ.aac
+73.Radio Parada       http://stream4.nadaje.com:15274/live
+74.Radio Malbork      http://stream3.nadaje.com:9022/
+75.Radio 7            http://stream.radio7.pl:8000
+76.Radio Naklo        http://145.239.92.77:80/;
+77.Olsztyn UWM FM     http://213.184.18.156:8000/
+78.Doxa Fm            http://shot.inten.pl:10000/
+79.Rekord Radio       http://stream4.nadaje.com:8308/ostrowiec
+80.POP Radio          http://stream1.popradio.pl:9000/
+81.Radio Fara         http://62.133.128.22:8000/relay
+82.Nasze Radio        https://online.nasze.fm:8443/stream
+83.Radio Sudety 2 4   http://stream4.nadaje.com:15006/sudety24
+84.J C S  R A D I O   http://jeansoft.zapto.org:8000
+85.Radio Energy 2000  http://energy2000.radioparty.pl:8005/
+86.SLAY RADIO         http://relay1.slayradio.org:8300/
+87.Radio ChilliZet    http://www.emsoft.ct8.pl/inne/chilli.m3u
+88.Radio RAM Wroclaw  http://stream4.nadaje.com:9220/ram.m3u
+89.Phever Media Live  http://uk1.internet-radio.com:8200/live
+90.Move Da House      http://uk7.internet-radio.com:8000/
+91.Radio LEM FM       http://n13.radiojar.com/2fa0gbhr9bhvv
+92.Radio MRS          http://145.239.26.146:7494/;
+93.Mediehuset 3 FM    http://uk1.internet-radio.com:8150/live
+94.Energy 106 Belfast http://192.111.140.6:9633/stream
+95.The Zone - Dublin  http://uk1.internet-radio.com:8355/
+96.Radio Pirata TGR   http://us1.internet-radio.com:8140/live
+97.Classic Rock Plane http://us5.internet-radio.com:8279/
+98.The Big 80s Statio http://178.32.62.167:8545/stream
+99.Soundtracks Radio  http://uk5.internet-radio.com:8256/
+100.The Hit Man Radio http://uk2.internet-radio.com:8121/
 113|Hot Hitz 80s        |http://198.105.216.204:8098/stream
 114|Super Dance Floorida|http://5.135.154.66:33604/;
 115|Back To The 80 Radio|http://149.56.185.82:8135/
