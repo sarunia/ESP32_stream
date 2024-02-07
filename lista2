@@ -18,36 +18,36 @@
 18.MonsterFM-Evergree http://evergreens.radiomonster.fm/320.mp3
 19.MonsterFM-Schlager http://schlager.radiomonster.fm/320.mp3
 20.Dark Section Radio http://cp.ultimate-stream-hosting.de:8010/stream
-134|Discofox FM         |http://87.118.78.2:8000/main.mp3
-135|The Zone - Dublin   |http://uk1.internet-radio.com:8355/
-136|Hi On Line Radio    |http://mediaserv30.live-streams.nl:8086/stream
-137|Hi On Line Gold     |http://mediaserv30.live-streams.nl:8000/stream
-138|Hi On Line Lounge   |http://mediaserv33.live-streams.nl:8036/stream
-139|Hi On Line Classic  |http://82.94.166.107/proxy/hionlineclassic?mp=/
-140|Hi On line Latin    |http://mediaserv33.live-streams.nl:8034/stream
-141|Hi On Line France   |http://mediaserv21.live-streams.nl:8000/stream
-142|Hi On Line World    |http://mediaserv38.live-streams.nl:8027/stream
-143|Hi On Line Jazz     |http://mediaserv38.live-streams.nl:8006/stream
-144|DISCONIGHT          |http://78.129.159.25:8040/stream
-145|Hitradio            |http://51.255.8.139:9090/stream
-146|HIT FM              |http://95.217.48.54:9054/stream
-147|Radio  ELECTRO      |http://80.66.80.225:8000/electro320
-148|Nautic Radio        |http://83.137.145.141:14260/
-149|Ibiza Lockdown      |http://us10a.serverse.com:8345/autodj
-150|American Music      |http://167.114.131.90:6112/stream
-151|Smooth Jazz         |http://us4.internet-radio.com:8266/stream
-152|Classic Rock        |http://198.58.98.83:8258/stream
-153|Rock Radio HD       |http://us5.internet-radio.com:8267/stream
-154|Intense  Radio      |https://intenseradio.live-streams.nl:18000/live
-155|Radio Paradise Main |https://stream.radioparadise.com/aac-320
-156|Radio Paradise Melow|https://stream.radioparadise.com/mellow-320
-157|Radio Paradise Rock |https://stream.radioparadise.com/rock-320
-158|Radio Paradise World|https://stream.radioparadise.com/world-etc-320
-159|FREQUENCE 3         |http://master.net-radio.fr:80/frequence3-256.mp3
-160|FREQUENCE 3-GOLD    |http://master.net-radio.fr:80/abfgold.mp3
-161|FREQUENCE 3-URBAN   |http://master.net-radio.fr:80/frequence3urban-256.mp3
-162|FREQUENCE 3-DANCE   |http://master.net-radio.fr:80/abf.mp3
-163|FREQUENCE 3-WORLD   |http://master.net-radio.fr:80/abfcult.mp3
+21.Discofox FM        http://87.118.78.2:8000/main.mp3
+22.The Zone - Dublin  http://uk1.internet-radio.com:8355/
+23.Hi On Line Radio   http://mediaserv30.live-streams.nl:8086/stream
+24.Hi On Line Gold    http://mediaserv30.live-streams.nl:8000/stream
+25.Hi On Line Lounge  http://mediaserv33.live-streams.nl:8036/stream
+26.Hi On Line Classic http://82.94.166.107/proxy/hionlineclassic?mp=/
+27.Hi On line Latin   http://mediaserv33.live-streams.nl:8034/stream
+28.Hi On Line France  http://mediaserv21.live-streams.nl:8000/stream
+29.Hi On Line World   http://mediaserv38.live-streams.nl:8027/stream
+30.Hi On Line Jazz    http://mediaserv38.live-streams.nl:8006/stream
+31.DISCONIGHT         http://78.129.159.25:8040/stream
+32.Hitradio           http://51.255.8.139:9090/stream
+33.HIT FM             http://95.217.48.54:9054/stream
+34.Radio  ELECTRO     http://80.66.80.225:8000/electro320
+35.autic Radio        http://83.137.145.141:14260/
+36.Ibiza Lockdown     http://us10a.serverse.com:8345/autodj
+37.American Music     http://167.114.131.90:6112/stream
+38.Smooth Jazz        http://us4.internet-radio.com:8266/stream
+39.Classic Rock       http://198.58.98.83:8258/stream
+40.Rock Radio HD      http://us5.internet-radio.com:8267/stream
+41.Intense  Radio     https://intenseradio.live-streams.nl:18000/live
+42.Radio Paradise Mai https://stream.radioparadise.com/aac-320
+43.Radio Paradise Mel https://stream.radioparadise.com/mellow-320
+44.Radio Paradise Roc https://stream.radioparadise.com/rock-320
+45.Radio Paradise Wor https://stream.radioparadise.com/world-etc-320
+46.FREQUENCE 3        http://master.net-radio.fr:80/frequence3-256.mp3
+47.FREQUENCE 3-GOLD   http://master.net-radio.fr:80/abfgold.mp3
+48.FREQUENCE 3-URBAN  http://master.net-radio.fr:80/frequence3urban-256.mp3
+49.FREQUENCE 3-DANCE  http://master.net-radio.fr:80/abf.mp3
+50.FREQUENCE 3-WORLD  http://master.net-radio.fr:80/abfcult.mp3
 164|CN'O                |http://master.net-radio.fr:80/cno-96.aac
 165|H2O 90              |http://master.net-radio.fr:80/h2o-90al.mp3
 166|H2O Classics        |http://master.net-radio.fr:80/h2o-classics.mp3
