@@ -48,52 +48,52 @@
 48.FREQUENCE 3-URBAN  http://master.net-radio.fr:80/frequence3urban-256.mp3
 49.FREQUENCE 3-DANCE  http://master.net-radio.fr:80/abf.mp3
 50.FREQUENCE 3-WORLD  http://master.net-radio.fr:80/abfcult.mp3
-164|CN'O                |http://master.net-radio.fr:80/cno-96.aac
-165|H2O 90              |http://master.net-radio.fr:80/h2o-90al.mp3
-166|H2O Classics        |http://master.net-radio.fr:80/h2o-classics.mp3
-167|H2O Classics 2000   |http://master.net-radio.fr:80/h2o-classics2000.mp3
-168|H2O Fresh List      |http://master.net-radio.fr:80/h2o-freshlist.mp3
-169|H2O Hits            |http://master.net-radio.fr:80/h2o-hits.mp3
-170|H2O Radio           |http://master.net-radio.fr:80/h2oradio-backup-256.mp3
-171|RDIO NOSTALGIE      |http://master.net-radio.fr:80/nostalgie-tuner37.mp3
-172|RadioMonster Dance  |http://dance.radiomonster.fm/320.mp3
-173|Dance Jamz          |http://stream05.dotpoint.nl:8000/dancejamz
-174|SECTOR Progressive  |http://89.223.45.5:8000/progressive-mp3
-175|SECTOR Space        |http://89.223.45.5:8000/space-mp3
-176|SECTOR Geny         |http://89.223.45.5:8000/geny-mp3
-177|SECTOR Next         |http://89.223.45.5:8000/next-mp3
-178|MAXIMA  FM          |http://178.32.146.184:2088/stream
-179|Pub Shed Radio      |http://178.32.62.172:9214/stream
-181|Pro FM 24/7         |http://81.23.235.131:8200/stream
-182|Magic FM Club 80    |http://158.69.114.190:8014/stream
-183|Chill Out Zone      |http://air.chillout.zone:8000/;
-184|Chill In Zone       |http://air.chillout.zone:8020/;
-185|PARTY VIBE-AMBIENT  |http://94.130.242.5:8056/stream
-186|PARTY VIBE-DRUM&BASS|http://94.130.242.5:8004/stream
-187|PARTY VIBE-DUBSTEP  |http://94.130.242.5:8040/stream
-188|PARTY VIBE-POP      |http://94.130.242.5:8024/stream
-189|PARTY VIBE-PSYTRANCE|http://94.130.242.5:8010/stream
-190|PARTY VIBE-JAZZ     |http://94.130.242.5:8020/stream
-191|PARTY VIBE-RAP      |http://94.130.242.5:8016/stream
-192|PARTY VIBE-REGGAE   |http://94.130.242.5:8000/stream
-193|PARTY VIBE-ROCK     |http://94.130.242.5:8032/stream
-194|PARTY VIBE-TECHNO   |http://94.130.242.5:8046/stream
-195|Intense Radio Live  |https://intenseradio.live-streams.nl:18000/live
-196|Deepvibes Radio     |http://88.208.218.19:9106/stream
-199|Energy 106 Belfast  |http://192.111.140.6:9633/stream
-200|Radio DiscoParty.pl |http://145.239.26.146:7432/;
-185|PARTY VIBE-AMBIENT  |http://94.130.242.5:8056/stream
-186|PARTY VIBE-DRUM&BASS|http://94.130.242.5:8004/stream
-187|PARTY VIBE-DUBSTEP  |http://94.130.242.5:8040/stream
-188|PARTY VIBE-POP      |http://94.130.242.5:8024/stream
-189|PARTY VIBE-PSYTRANCE|http://94.130.242.5:8010/stream
-190|PARTY VIBE-JAZZ     |http://94.130.242.5:8020/stream
-191|PARTY VIBE-RAP      |http://94.130.242.5:8016/stream
-192|PARTY VIBE-REGGAE   |http://94.130.242.5:8000/stream
-193|PARTY VIBE-ROCK     |http://94.130.242.5:8032/stream
-194|PARTY VIBE-TECHNO   |http://94.130.242.5:8046/stream
-195|Intense Radio Live  |https://intenseradio.live-streams.nl:18000/live
-196|Deepvibes Radio     |http://88.208.218.19:9106/stream
-198|Mediehuset 3 fmnorge|http://uk1.internet-radio.com:8150/live
-199|Energy 106 Belfast  |http://192.111.140.6:9633/stream
-200|Radio DiscoParty.pl |http://145.239.26.146:7432/;
+51.CN'O               http://master.net-radio.fr:80/cno-96.aac
+52.H2O 90             http://master.net-radio.fr:80/h2o-90al.mp3
+53.H2O Classics       http://master.net-radio.fr:80/h2o-classics.mp3
+54.H2O Classics 2000  http://master.net-radio.fr:80/h2o-classics2000.mp3
+55.H2O Fresh List     http://master.net-radio.fr:80/h2o-freshlist.mp3
+56.H2O Hits           http://master.net-radio.fr:80/h2o-hits.mp3
+57.H2O Radio          http://master.net-radio.fr:80/h2oradio-backup-256.mp3
+58.RDIO NOSTALGIE     http://master.net-radio.fr:80/nostalgie-tuner37.mp3
+59.RadioMonster Dance http://dance.radiomonster.fm/320.mp3
+60.Dance Jamz         http://stream05.dotpoint.nl:8000/dancejamz
+61.SECTOR Progressive http://89.223.45.5:8000/progressive-mp3
+62.SECTOR Space       http://89.223.45.5:8000/space-mp3
+63.SECTOR Geny        http://89.223.45.5:8000/geny-mp3
+64.SECTOR Next        http://89.223.45.5:8000/next-mp3
+65.MAXIMA  FM         http://178.32.146.184:2088/stream
+66.Pub Shed Radio     http://178.32.62.172:9214/stream
+67.Pro FM 24/7        http://81.23.235.131:8200/stream
+68.Magic FM Club 80   http://158.69.114.190:8014/stream
+69.Chill Out Zone     http://air.chillout.zone:8000/;
+70.Chill In Zone      http://air.chillout.zone:8020/;
+71.PARTY VIBE-AMBIENT http://94.130.242.5:8056/stream
+72.PARTY VIBE-DRUM&BA http://94.130.242.5:8004/stream
+73.PARTY VIBE-DUBSTEP http://94.130.242.5:8040/stream
+74.PARTY VIBE-POP     http://94.130.242.5:8024/stream
+75.PARTY VIBE-PSYTRAN http://94.130.242.5:8010/stream
+76.PARTY VIBE-JAZZ    http://94.130.242.5:8020/stream
+77.PARTY VIBE-RAP     http://94.130.242.5:8016/stream
+78.PARTY VIBE-REGGAE  http://94.130.242.5:8000/stream
+79.PARTY VIBE-ROCK    http://94.130.242.5:8032/stream
+80.PARTY VIBE-TECHNO  http://94.130.242.5:8046/stream
+81.Intense Radio Live https://intenseradio.live-streams.nl:18000/live
+82.Deepvibes Radio    http://88.208.218.19:9106/stream
+83.Energy 106 Belfast http://192.111.140.6:9633/stream
+84.Radio DiscoParty   http://145.239.26.146:7432/;
+85.PARTY VIBE-AMBIENT http://94.130.242.5:8056/stream
+86.PARTY VIBE-DRUM&BA http://94.130.242.5:8004/stream
+87.PARTY VIBE-DUBSTEP http://94.130.242.5:8040/stream
+88.PARTY VIBE-POP     http://94.130.242.5:8024/stream
+89.PARTY VIBE-PSYTRAN http://94.130.242.5:8010/stream
+90.PARTY VIBE-JAZZ    http://94.130.242.5:8020/stream
+91.PARTY VIBE-RAP     http://94.130.242.5:8016/stream
+92.PARTY VIBE-REGGAE  http://94.130.242.5:8000/stream
+93.PARTY VIBE-ROCK    http://94.130.242.5:8032/stream
+94.PARTY VIBE-TECHNO  http://94.130.242.5:8046/stream
+95.Intense Radio Live https://intenseradio.live-streams.nl:18000/live
+96.Deepvibes Radio    http://88.208.218.19:9106/stream
+97.Mediehuset 3 fmnor http://uk1.internet-radio.com:8150/live
+99.Energy 106 Belfast http://192.111.140.6:9633/stream
+100.Radio DiscoParty  http://145.239.26.146:7432/;
