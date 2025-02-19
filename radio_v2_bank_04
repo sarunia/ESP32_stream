@@ -1,5 +1,5 @@
 181.FM Classic Hits       Bank 4 Stacja 1   http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
-181.FM Good Time Oldies   Bank 4 Stacja 2   http://listen.livestreamingservice.com/181-goodtime_128k.mp3
+181.FM GoodTimeOldies     Bank 4 Stacja 2   http://listen.livestreamingservice.com/181-goodtime_128k.mp3
 181.FM Mellow Gold        Bank 4 Stacja 3   http://listen.livestreamingservice.com/181-mellow_128k.mp3
 181.FM Soul               Bank 4 Stacja 4   http://listen.livestreamingservice.com/181-soul_128k.mp3
 181.FM Beatles            Bank 4 Stacja 5   http://listen.livestreamingservice.com/181-beatles_128k.mp3
@@ -72,13 +72,28 @@
 181.FM Classical Music    Bank 4 Stacja 72  http://listen.livestreamingservice.com/181-classical_128k.mp3
 181.FM Acid Jazz          Bank 4 Stacja 73  http://listen.livestreamingservice.com/181-acidjazz_128k.mp3
 181.FM Comedy Club        Bank 4 Stacja 74  http://listen.livestreamingservice.com/181-comedy_128k.mp3
-Radio Karolinka           Bank 4 Stacja 75  http://91.232.4.33:8358/stream  
-Radio Katowice            Bank 4 Stacja 76  http://stream4.nadaje.com:9212/radiokatowice  
-Radio Katowice Slask      Bank 4 Stacja 77  https://stream4.nadaje.com:8497/katowice_b  
-Radio Krysjan             Bank 4 Stacja 78  http://radio.admin-marcin.pl:7424  
-Radio Lenka               Bank 4 Stacja 79  http://s1.slotex.pl:7028
-Radio Extreme             Bank 4 Stacja 80  https://s3.slotex.pl/shoutcast/7452/stream  
-Radio FAMA Kielce         Bank 4 Stacja 81  http://stream2.nadaje.com:8076  
-Radio FAMA Slupsk         Bank 4 Stacja 82  http://stream3.nadaje.com:9024  
-Radio FAMA Tomaszow       Bank 4 Stacja 83  http://stream2.nadaje.com:8078  
-Radio FAMA Wolomin        Bank 4 Stacja 84  http://stream3.nadaje.com:8096  
+Life Radio 80er           Bank 4 Stacja 75  https://stream.liferadio.at/80er/mp3-192/app/
+Life Radio Chill Out      Bank 4 Stacja 76  https://stream.liferadio.at/chillout/mp3-192/app/
+Life Radio Christmas      Bank 4 Stacja 77  https://stream.liferadio.at/xmas/mp3-192/app/
+Life Radio Home Office    Bank 4 Stacja 78  https://stream.liferadio.at/homeoffice/mp3-192/app/
+Life Radio Life Radio     Bank 4 Stacja 79  https://stream.liferadio.at/liferadio/mp3-192/app/
+Life Radio Sommersongs    Bank 4 Stacja 80  https://stream.liferadio.at/sommer/mp3-192/app/
+Life Radio Testchannel    Bank 4 Stacja 81  https://liferadio.stream.vip/test/mp3-192/app/
+Life Radio Top500         Bank 4 Stacja 82  https://stream.liferadio.at/top500/mp3-192/app/
+Radio Toksyna FM          Bank 4 Stacja 83  http://s01.toksyna.fm:8000  
+Radio Toksyna FM DJ Chann Bank 4 Stacja 84  http://s01.toksyna.fm:8040  
+Radio Toksyna FM Elektron Bank 4 Stacja 85  http://s01.toksyna.fm:8010  
+Radio Toksyna FM New Roma Bank 4 Stacja 86  http://s01.toksyna.fm:8020  
+Radio Toksyna FM PsyTranc Bank 4 Stacja 87  http://s01.toksyna.fm:8030  
+Radio Toksyna FM Punk Roc Bank 4 Stacja 88  http://s01.toksyna.fm:8070  
+PARTY VIBE-DRUM&BASS      Bank 4 Stacja 89  http://94.130.242.5:8004/stream
+PARTY VIBE-DUBSTEP        Bank 4 Stacja 90  http://94.130.242.5:8040/stream
+PARTY VIBE-POP            Bank 4 Stacja 91  http://94.130.242.5:8024/stream
+PARTY VIBE-PSYTRANCE      Bank 4 Stacja 92  http://94.130.242.5:8010/stream
+PARTY VIBE-RAP            Bank 4 Stacja 93  http://94.130.242.5:8016/stream
+PARTY VIBE-REGGAE         Bank 4 Stacja 94  http://94.130.242.5:8000/stream
+PARTY VIBE-ROCK           Bank 4 Stacja 95  http://94.130.242.5:8032/stream
+PARTY VIBE-TECHNO         Bank 4 Stacja 96  http://94.130.242.5:8046/stream
+Mirage Italo Dance        Bank 4 Stacja 97  https://ssl-1.radiohost.pl:9569
+Mirage Prywatka           Bank 4 Stacja 98  https://ssl-1.radiohost.pl:7214
+Mirage Space              Bank 4 Stacja 99  https://ssl-1.radiohost.pl:9563
